@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#A4A28DCA</color>
+    <color name="purple_500">#A4A28DCA</color>
+    <color name="purple_700">#A4A28DCA</color>
+    <color name="teal_200">#A4A28DCA</color>
+    <color name="teal_700">#A4A28DCA</color>
+    <color name="white">#FC191717</color>
+    <color name="blackSearch">#FF000000</color>
+    <color name="blackNight">#FFFFFFFF</color>
+    <color name="black">#FFFFFFFF</color>
+    <color name="place_holder_bg">#66000000</color>
+    <color name="snackRed">#FF5E5E</color>
+    <color name="transparent">#00000000</color>
+    <color name="snackGreen">#7245C5</color>
+    <color name="white1">#FFFFFFFF</color>
+    <color name="cardViewColor">#5E504E4E</color>
+</resources>

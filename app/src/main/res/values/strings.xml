@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tawk Test</string>
+    <string name="noInternet">No internet connection please connect internet</string>
+    <string name="followers">Followers:</string>
+    <string name="following">Following:</string>
+    <string name="name">Name:</string>
+    <string name="blog">Blog:</string>
+    <string name="company">Company:</string>
+    <string name="public_repos">Public Repos:</string>
+    <string name="public_gists">Public Gists:</string>
+    <string name="save">Save</string>
+    <string name="setting">Setting</string>
+    <string name="connected">Connected</string>
+    <string name="no_internet_can_t_refresh_the_list">No Internet, can\'t refresh the list.</string>
+</resources>
