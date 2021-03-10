@@ -135,7 +135,7 @@ class UserProfileActivity : AppCompatActivity(), View.OnClickListener, SnackRetr
                 validate(editNote.text.toString())
                 if (editNote.text.toString().isEmpty()){
                   utils.showAlert("Please enter your note.")
-                }else{
+                } else {
                     val user = User(userListItem.name, userListItem.image, editNote.text.toString().trim(), userListItem.id)
                     userViewModel.update(user)
                 }
@@ -154,7 +154,7 @@ class UserProfileActivity : AppCompatActivity(), View.OnClickListener, SnackRetr
         }
         if (requestCode == 123) {
             utils.showSnackBar(rootViewProfile, this, getString(R.string.connected), Const.success, Const.successDuration)
-            userDetailsAPITaskCall()// when net connected then
+            userDetailsAPITaskCall() // when net connected then
         }
     }
 
